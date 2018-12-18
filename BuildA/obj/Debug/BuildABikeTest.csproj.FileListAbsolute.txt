@@ -1,0 +1,14 @@
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\bin\Debug\BuildA.dll
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\bin\Debug\BuildA.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\bin\Debug\Presentation.exe
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\bin\Debug\Presentation.pdb
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\obj\Debug\BuildABikeTest.csprojResolveAssemblyReference.cache
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\obj\Debug\BuildA.dll
+C:\Users\alex4\Documents\Visual Studio 2013\Projects\Presentation\BuildA\obj\Debug\BuildA.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\bin\Debug\BuildA.dll
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\bin\Debug\BuildA.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\bin\Debug\Presentation.exe
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\bin\Debug\Presentation.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\obj\Debug\BuildABikeTest.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\obj\Debug\BuildA.dll
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildA\obj\Debug\BuildA.pdb

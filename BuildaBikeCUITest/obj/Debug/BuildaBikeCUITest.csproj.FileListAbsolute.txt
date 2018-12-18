@@ -1,0 +1,5 @@
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildaBikeCUITest\bin\Debug\BuildaBikeCUITest.dll
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildaBikeCUITest\bin\Debug\BuildaBikeCUITest.pdb
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildaBikeCUITest\obj\Debug\BuildaBikeCUITest.csprojResolveAssemblyReference.cache
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildaBikeCUITest\obj\Debug\BuildaBikeCUITest.dll
+\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40288545\My Profile\Desktop\Presentation\Presentation\BuildaBikeCUITest\obj\Debug\BuildaBikeCUITest.pdb
